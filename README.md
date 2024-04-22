@@ -239,5 +239,6 @@ rca8(sim):
 
 ![image](https://github.com/Nagarajan2003/VLSI-LAB-EXP-1/assets/164840481/f882d103-802e-46df-bf59-d6a062f495c5)
 
-RESULT:
+RESULT: 
+Thus,half adder using Vivado is stimulated and synthesised.
 
